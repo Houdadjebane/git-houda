@@ -1,10 +1,17 @@
-<!DOCTYPE   html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <style></style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dogit tuorieL</title>
 </head>
 <body>
-    <h2>serine</h2>
+<h1>info</h1>
+<h2>math</h2>
+<h3>html</h3>
+<h4>css</h4>
+<h5>python</h5>
+<h6>java</h6>
 </body>
-
+</html>
 
